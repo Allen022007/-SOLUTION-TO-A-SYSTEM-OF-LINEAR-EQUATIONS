@@ -1,4 +1,8 @@
 # -SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS
+~~~
+Name : W Allen Johnston Ozario
+Reg. No : 212224110004
+~~~
 ## Aim:
 To write a python program to find a solution to a system of linear equations.
 ## Equipment’s required:
